@@ -4,7 +4,7 @@ WebApp Using Blockchain to ................
 
 
 
-# Documentation for smart contract.
+# Documentation for Smart contract.
 
 
 
