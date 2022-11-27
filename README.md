@@ -2,6 +2,15 @@
 WebApp Using Blockchain to address SDGS goals on Climate change.
 
 
+# Documentation for Machine Learning Implementation.
+
+# 🌦🌡 Weather Forecasting 📈 (98% acc.)
+
+To leverage the power of Data science solutios we have use Machine Learning models to predcist weatehr conditions 
+![image](https://user-images.githubusercontent.com/88959075/204123418-878d443e-45f1-4b79-a8b9-ff3d0c1a461a.png)
+
+
+
 
 
 # Documentation for Smart contract.
@@ -18,5 +27,3 @@ of Economic and Social Affairs https://sdgs.un.org/publications/state-city-clima
 
 
 
-
-# Documentation for Machine Learning Implementation.
