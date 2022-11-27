@@ -7,7 +7,10 @@ WebApp Using Blockchain to address SDGS goals on Climate change.
 # 🌦🌡 Weather Forecasting 📈 (98% acc.)
 
 To leverage the power of Data science solutios we have use Machine Learning models to predcist weatehr conditions 
-![image](https://user-images.githubusercontent.com/88959075/204123418-878d443e-45f1-4b79-a8b9-ff3d0c1a461a.png)
+![image](https://user-images.githubusercontent.com/88959075/204123418-878d443e-45f1-4b79-a8b9-ff3d0c1a461a.png) 
+
+![image](https://user-images.githubusercontent.com/88959075/204123463-92ecf436-b148-44d9-a6c2-9ebaa3b8a07a.png)
+
 
 
 
