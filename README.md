@@ -42,6 +42,12 @@ USSD (Unstructured Supplementary Service Data) is a Global System for Mobile Com
 We have using this technology to help farmers with no access of Internet to get inofomation about weatehr condition based after predction made from our model.
 Our USSD would be avalilbl to anyone with the need of accurate weather information , a user may also subscribe to get daily updates to help him or her the weather issues.
 
-![image](https://user-images.githubusercontent.com/88959075/204123992-bf7506f1-a5e6-4b49-9f9f-91bc73f065a0.png)
+
+![ussd picture 2](https://user-images.githubusercontent.com/88959075/204124343-ca01b056-d74f-42a8-b79c-682854c91f8d.png)
+<br/>
+![ussd picture](https://user-images.githubusercontent.com/88959075/204124371-8172509b-3887-4fb9-8499-ee3e96e4dcd5.png)
+
+
+IPFS CID REFERENCES:
 
 
