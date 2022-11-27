@@ -31,7 +31,9 @@ principles of transparency https://www.ibm.com/blockchain/use-cases/ , also this
 high transaction costs and lack of proven funding models as the challenge was addresed by United Nations Department 
 of Economic and Social Affairs https://sdgs.un.org/publications/state-city-climate-finance-17999
 
+<br/>
 
+![image](https://user-images.githubusercontent.com/88959075/204123884-7e4c3e06-c052-4923-837a-d8b28e664aa6.png)
 
 
 # Documentation for USSD part.
