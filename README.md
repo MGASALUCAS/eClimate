@@ -54,7 +54,10 @@ Our USSD would be avalilbl to anyone with the need of accurate weather informati
 ![ussd picture](https://user-images.githubusercontent.com/88959075/204124371-8172509b-3887-4fb9-8499-ee3e96e4dcd5.png)
 
 
-# IPFS URIs:
+# IPFS CID URIs:
+CID or Content Identifier is a label used to point to material in IPFS. It doesn't indicate where the content is stored, but it forms a kind of address based on the content itself. CIDs are short, regardless of the size of their underlying content.
+
+Below are the CID used in IPFS used in our Project.
 
  ipfs://QmTKvsCd9DenTZXs16UJivZDfRFxQFb2sxfbVGiWMASQcJ eClimate/README.md
  ipfs://Qma9Gqr3zDc7Ufhd3Twa8dTgDkRH8vRLDVXqtR9t5mpRkW eClimate/contracts/Eclimate.sol
