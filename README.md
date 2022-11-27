@@ -1,5 +1,5 @@
 # eClimate
-WebApp Using Blockchain to address SDGS goals on Climate change.
+# THREE IN ONE : BLOCKCHAIN, MACHINE LEARNING AND USSD TECHNOLOGIES FOR UNITED NATIONS SGDS ON CLIMATE CHANGE>
 
 <br/>
 TO Align with united nations global sustainabe development goals. we have apiring to build digital solutions that involves Artificila Intelligence Technologies, Blockchanin , Data Science and USSD to help humanity suffering with problems lead by Climate changes conditions.
