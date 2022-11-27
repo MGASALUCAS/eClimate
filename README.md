@@ -38,5 +38,10 @@ of Economic and Social Affairs https://sdgs.un.org/publications/state-city-clima
 
 # Documentation for USSD part.
 
+USSD (Unstructured Supplementary Service Data) is a Global System for Mobile Communications (GSM) protocol that is used to send text messages.
+We have using this technology to help farmers with no access of Internet to get inofomation about weatehr condition based after predction made from our model.
+Our USSD would be avalilbl to anyone with the need of accurate weather information , a user may also subscribe to get daily updates to help him or her the weather issues.
+
+![image](https://user-images.githubusercontent.com/88959075/204123992-bf7506f1-a5e6-4b49-9f9f-91bc73f065a0.png)
 
 
