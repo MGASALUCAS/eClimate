@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="assets/img/logo2-1.png" rel="icon" />
+    <link href="assets/img/logo2-1.png" rel="apple-touch-icon" />
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>eDiary</title>
+  </head>
+  <body>
+    <h1 style="text-align: center; font-family: serif; color: #68b984">
+      eDiary
+    </h1>
+    <hr />
+    <hr />
+    <div class="diaryform">
+      <link
+        href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+        rel="stylesheet"
+        id="bootstrap-css"
+      />
+      <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <!------ Include the above in your HEAD tag ---------->
+      <link
+        href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        rel="stylesheet"
+        id="bootstrap-css"
+      />
+      <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <!------ Include the above in your HEAD tag ---------->
+
+      <link
+        href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        rel="stylesheet"
+      />
+
+      <div class="container">
+        <div class="form-group row custom-upload">
+          <div class="col-md-12">
+            <div data-role="appendRow">
+              <div class="form-inline form-row">
+                <input
+                  input
+                  type="text"
+                  class="form-control mb-2 mr-sm-2 col-sm-4"
+                  id="field-name"
+                  placeholder="Note your records"
+                />
+                <!-- file upload start-->
+                <div class="mb-2 mr-sm-2 col-sm-5 wrap-input-container">
+                  <label class="custom-file-upload form-control">
+                    <i class="fa fa-cloud-upload"></i> Upload a picture
+                  </label>
+                  <input
+                    class="file-upload"
+                    action="record"
+                    name="record"
+                    type="file"
+                  />
+                </div>
+                <!-- file upload ends-->
+
+                <button class="btn btn-sm btn-danger mb-2" data-role="remove">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <button class="btn btn-sm btn-primary mb-2" data-role="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+              </div>
+              <!-- /div.form-inline -->
+            </div>
+            <!-- /div[data-role="dynamic-fields"] -->
+          </div>
+        </div>
+        <script src="/diary.js"></script>
+
+        <!-- new button for success start -->
+
+        <link
+          href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"
+          rel="stylesheet"
+          id="bootstrap-css"
+        />
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+        <!------ Include the above in your HEAD tag ---------->
+
+        <div class="page-alerts">
+          <div class="alert alert-success page-alert" id="alert-1">
+            <button type="button" class="close">
+              <span aria-hidden="true">×</span
+              ><span class="sr-only">Close</span>
+            </button>
+            <strong>Well done!</strong> Your notes are successfully recorded On
+            Your eDiary .<img
+              style="border-radius: 10px"
+              width="20%"
+              src="/IMG/climatechange10.jpg"
+              alt=""
+            />
+          </div>
+
+          <div class="alert alert-success page-alert" id="alert-5">
+            <button type="button" class="close">
+              <span aria-hidden="true">×</span
+              ><span class="sr-only">Close</span>
+            </button>
+            <strong>Cool!</strong> This alert will close in 3 seconds. The
+            data-delay attribute is in milliseconds.
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <hr />
+              <hr />
+              <div class="row">
+                <div class="col-md-2">
+                  <button
+                    data-toggle="page-alert"
+                    data-toggle-id="1"
+                    class="btn btn-success btn-block"
+                  >
+                    Submit
+                  </button>
+                </div>
+
+                <div class="col-md-2">
+                  <button class="btn btn-default btn-block clear-page-alerts">
+                    View your eDiary
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- new button for success end-->
+      </div>
+    </div>
+    <div style="margin-bottom: 100px"></div>
+  </body>
+</html>
