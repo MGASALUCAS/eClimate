@@ -48,6 +48,15 @@ Our USSD would be avalilbl to anyone with the need of accurate weather informati
 ![ussd picture](https://user-images.githubusercontent.com/88959075/204124371-8172509b-3887-4fb9-8499-ee3e96e4dcd5.png)
 
 
-IPFS CID REFERENCES:
+# IPFS CID REFERENCES:
 
+ QmTKvsCd9DenTZXs16UJivZDfRFxQFb2sxfbVGiWMASQcJ eClimate/README.md
+ Qma9Gqr3zDc7Ufhd3Twa8dTgDkRH8vRLDVXqtR9t5mpRkW eClimate/contracts/Eclimate.sol
+ Qme4tu1fN3e59yDmPsAwMmjPfWXFRc5KdFX9GsawEpvRUE eClimate/scripts/deploy.js
+ QmSDTUnxVAoDSTqTxL6u2u4A3XiJPdbKojQ5CXje8arKEz eClimate/scripts/eclimate.js
+ QmfEJDW68VRadeQ2KCTq63UEchcv5o6fcoe8gdRLiKMY9J eClimate/test/testing.js
+ QmQbqeJcVqseb8x1eRN5e4Ldp1D78v6ppV6AawPkptHKQT eClimate/contracts
+ QmbxXSEQ17pxMYxC8woifr4fenCvx76gmjmQCGvj5E6k7P eClimate/scripts
+ QmcE3mrxRQTnVexpvVHQkCXe8wQae6Km8tyRCxsCJZZJaV eClimate/test
+ QmZ4YqYZgcfbeRaS1ngZb92YC3s49pa27swcbRkegbFjHa eClimate
 
