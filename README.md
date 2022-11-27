@@ -1,6 +1,11 @@
 # eClimate
 WebApp Using Blockchain to address SDGS goals on Climate change.
 
+<br/>
+TO Align with united nations global sustainabe development goals. we have apiring to build digital solutions that involves Artificila Intelligence Technologies, Blockchanin , Data Science and USSD to help humanity suffering with problems lead by Climate changes conditions.
+
+![image](https://user-images.githubusercontent.com/88959075/204125396-787bc7be-97e0-4740-aba6-c36bc0ee27c4.png)
+
 
 # Documentation for Machine Learning Implementation.
 
