@@ -38,18 +38,18 @@ async function main() {
   await eclimate.deployed();
   console.log("Eclimate deployed to:", eclimate.address);
 
-  // Check balances before the coffee purchase.
+  // Check balances at the start.
   const addresses = [owner.address, tipper.address, eclimate.address];
   console.log("== start ==");
   await printBalances(addresses);
 
-  // Buy the owner a few coffees.
+  // distributing some funds to farmers.
   const tip = {value: hre.ethers.utils.parseEther("1")};
   await eclimate.connect(tipper).donateFund("Carolina", "You're the best!", tip);
-  await eclimate.connect(tipper2).donateFund("Vitto", "Amazing teacher", tip);
+  await eclimate.connect(tipper2).donateFund("Vitto", "Amazing!", tip);
   await eclimate.connect(tipper3).donateFund("Kay", "I love my Proof of Knowledge", tip);
 
-  // Check balances after the coffee purchase.
+  // Check balances after fund distribution.
   console.log("== bought coffee ==");
   await printBalances(addresses);
 
