@@ -39,7 +39,7 @@ of Economic and Social Affairs https://sdgs.un.org/publications/state-city-clima
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/88959075/204123884-7e4c3e06-c052-4923-837a-d8b28e664aa6.png)
+![image](https://user-images.githubusercontent.com/88959075/204127177-e04969d7-c138-47a8-b67d-8f122c47ef90.png)
 
 
 # Documentation for USSD part.
