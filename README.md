@@ -13,6 +13,9 @@ TO Align with united nations global sustainabe development goals. we have apirin
 
 To reduce the workload of meterologist we have use Machine Learning to improve the accuracy of weather predictions. AI technologies process data in extreme weather conditions to help scientists with a better chance of alerting people in danger.
 Leveraging the power of Data science solutios we have use Machine Learning models to predicts weather conditions and help farmers , Peoples and everyone with the neeed of accuracy weather information in their activities.
+
+<br/>
+Source of Data : Exploring global climate data since 1750.
 <br/>
 
 Our models performane shows the unexpected output with acuracy of 98% . 
