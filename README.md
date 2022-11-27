@@ -21,7 +21,7 @@ Our models performane shows the unexpected output with acuracy of 98% .
 
 ![image](https://user-images.githubusercontent.com/88959075/204126712-05bfed8e-e43f-4626-b8ac-7736b883a199.png)
 
-![image](https://user-images.githubusercontent.com/88959075/204123418-878d443e-45f1-4b79-a8b9-ff3d0c1a461a.png) 
+
 
 
 
