@@ -31,6 +31,10 @@ Our models performane shows the unexpected output with acuracy of 98% .
 
 
 # Documentation for Smart contract.
+
+A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control or document events and actions according to the terms of a contract or an agreement.
+The purpose of smart contract is to facilitate peer to peer transactions.
+
 The smartcontract is written on solidity for facilitating funds financing through P2P transactions
 this will help in solving issues of corruption since the decentralised system of blockchain works on 
 principles of transparency https://www.ibm.com/blockchain/use-cases/ , also this will solve the problem of
