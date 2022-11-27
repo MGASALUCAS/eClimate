@@ -6,7 +6,11 @@ WebApp Using Blockchain to address SDGS goals on Climate change.
 
 # 🌦🌡 Weather Forecasting 📈 (98% acc.)
 
-To leverage the power of Data science solutios we have use Machine Learning models to predcist weatehr conditions 
+To reduce the workload of meterologist we have use Machine Learning to improve the accuracy of weather predictions. AI technologies process data in extreme weather conditions to help scientists with a better chance of alerting people in danger.
+Leveraging the power of Data science solutios we have use Machine Learning models to predicts weather conditions and help farmers , Peoples and everyone with the neeed of accuracy weather information in their activities.
+
+<br/>
+
 ![image](https://user-images.githubusercontent.com/88959075/204123418-878d443e-45f1-4b79-a8b9-ff3d0c1a461a.png) 
 
 ![image](https://user-images.githubusercontent.com/88959075/204123463-92ecf436-b148-44d9-a6c2-9ebaa3b8a07a.png)
